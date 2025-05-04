@@ -1,0 +1,37 @@
+# System-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node/npm (if used in future)
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Java-related
+*.class
+*.jar
+*.war
+*.iml
+*.log
+target/
+bin/
+
+# Environment / config
+.env
+config.json
+
+# Build output
+dist/
+build/
+
+# Other
+*.zip
+*.bak
+*.tmp
